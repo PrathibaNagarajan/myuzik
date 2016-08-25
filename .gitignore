@@ -1,3 +1,6 @@
 *.ini
 /Debug
 *.opensdf
+*.sdf
+*.vcxproj*
+*.suo

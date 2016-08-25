@@ -1,0 +1,13 @@
+#This is a sample music file
+
+@Rhythm 10
+@Raga Shankarabharana 
+@Octave 5
+
+@Notes
+
+S R G R S R S R G M
+R G M G R G R G M P
+G M P M G M G M P D
+M P D P M P M P D N
+P D N D P D P D N S+
