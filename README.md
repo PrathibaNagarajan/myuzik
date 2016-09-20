@@ -1,5 +1,6 @@
 # myuzik
 Simple music programming language for Carnatic Classical Music using C++ and VS 2013
+Used the MIDI wrapper library for windows API (http://www.codeproject.com/Articles/2771/Wrapper-Library-for-Windows-MIDI-API) to develop the below mentioned classes. Also contains a simple parser to read sheet music and play the same.
 
 Note - Basic set/get of note levels
 
