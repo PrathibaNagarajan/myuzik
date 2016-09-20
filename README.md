@@ -1,5 +1,5 @@
 # myuzik
-Simple music programming language for Carnatic Classical Music
+Simple music programming language for Carnatic Classical Music using C++ and VS 2013
 
 Note - Basic set/get of note levels
 
